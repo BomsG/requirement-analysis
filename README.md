@@ -137,3 +137,5 @@ Use Cases:
   - Manage Listings (Admin)
 
   - View Bookings (Admin)
+
+![Use Case Diagram](./alx-booking-uc.png)
