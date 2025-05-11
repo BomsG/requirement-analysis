@@ -2,19 +2,13 @@
 
 This repository is part of my learning journey in Requirement Analysis, focused on understanding how to effectively define and structure the foundation of a software project. It includes practical exercises, notes, and templates that illustrate key concepts such as project scope, stakeholder needs, requirement elicitation, documentation, and validation. The goal is to build a solid project footprint that aligns development with real user and business needs.
 
-📌 What is Requirement Analysis?
+# What is Requirement Analysis?
 Requirement Analysis is the process of understanding what a software project should do. It involves talking to stakeholders (like clients, users, and team members) to find out what they need from the system and what problems the software should solve.
-
-Think of it like planning a house. Before you build, you ask the owner:
-
-How many rooms do you need?
-
-Do you want a big kitchen?
 
 What’s your budget?
 That’s exactly what Requirement Analysis is — asking the right questions before writing any code.
 
-# Why is Requirement Analysis Important in the SDLC?
+# Why is Requirement Analysis Important?
 Requirement Analysis is one of the first and most important steps in the Software Development Life Cycle (SDLC). Here's why:
 
 1.  Helps Define the Project Scope
@@ -76,3 +70,70 @@ Understanding user needs and turning them into clear, actionable software requir
   - Ensure all requirements are correct and agreed upon.
 
   - Catch issues early before development begins.
+
+# Types of Requirements
+In software development, requirements are generally divided into two categories: Functional and Non-functional. Both are essential for building a system that works well and meets user expectations.
+
+# Functional Requirements
+Functional requirements describe what the system should do — the specific features, functions, and behaviors of the system. They define how the system responds to inputs and what it should output.
+
+Examples for a Booking Management Project:
+
+- Users can register and log in to the system.
+
+- Users can search for available properties by date and location.
+
+- The system should allow users to make, cancel, or reschedule bookings.
+
+- Admins can add, edit, or remove listings.
+
+- The system should send confirmation emails after a booking is made.
+
+# Non-functional Requirements
+Non-functional requirements describe how the system should perform — they define the system’s quality attributes such as performance, security, and usability. These don't add features, but they ensure the system works well under different conditions.
+
+Examples for a Booking Management Project:
+
+- The system should load search results within 2 seconds.
+
+- The website should be available 99.9% of the time (high availability).
+
+- Passwords must be encrypted and stored securely.
+
+- The system should support up to 10,000 concurrent users.
+
+- The platform must be mobile-friendly and responsive on all devices.
+
+# Use Case Diagrams
+Use Case Diagrams are a visual tool used during Requirement Analysis to show how users (actors) interact with a system. They help capture the functional requirements by showing the major actions users can perform and how the system responds.
+
+# Benefits of Use Case Diagrams
+ - Help communicate user expectations clearly.
+
+ - Provide a visual summary of system functionality.
+
+ - Make it easier to identify user roles and responsibilities.
+
+ - Improve collaboration between developers, designers, and stakeholders.
+
+# Use Case Diagram for Booking Management System
+The diagram below shows key interactions between users (e.g., Guests and Admins) and the booking system.
+
+Actors:
+ - Guest (regular user)
+ - Admin
+
+Use Cases:
+  - Register/Login
+
+  - Search Properties
+
+  - Make a Booking
+
+  - Cancel Booking
+
+  - Receive Confirmation
+
+  - Manage Listings (Admin)
+
+  - View Bookings (Admin)
