@@ -139,3 +139,32 @@ Use Cases:
   - View Bookings (Admin)
 
 ![Use Case Diagram](./alx-booking-uc.png)
+
+# Acceptance Criteria
+Acceptance Criteria are conditions that a feature or functionality must meet to be accepted by stakeholders, testers, or product owners. They serve as a checklist that ensures a feature behaves as expected and is complete.
+
+# Importance of Acceptance Criteria
+ - Define clear and measurable expectations for a feature.
+
+ - Help developers, designers, and QA testers stay aligned.
+
+ - Reduce miscommunication between stakeholders and the development team.
+
+ - Ensure a smooth and accurate testing and approval process.
+
+Example: Acceptance Criteria for “Checkout” Feature
+Feature: Allow users to complete a property booking through the checkout process.
+
+Acceptance Criteria:
+
+ - The user must be logged in to proceed to checkout.
+
+ - The checkout page must display booking details (e.g., property name, date, total price).
+
+ - The user can enter or select payment details.
+
+ - A valid payment must be confirmed before booking is finalized.
+
+ - A confirmation email is sent to the user after a successful booking.
+
+ - If payment fails, an error message is shown and the booking is not saved.
