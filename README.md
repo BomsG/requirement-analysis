@@ -37,42 +37,42 @@ When the software meets the real needs of the users, they are more likely to be 
 
 Understanding user needs and turning them into clear, actionable software requirements involves several important steps. Below are the five key activities in Requirement Analysis:
 
-Requirement Gathering
+- Requirement Gathering
 
-Identify and collect information from stakeholders.
+  - Identify and collect information from stakeholders.
 
-Understand business goals and user needs.
+  - Understand business goals and user needs.
 
-Use interviews, surveys, and existing documents.
+  - Use interviews, surveys, and existing documents.
 
-Requirement Elicitation
+- Requirement Elicitation
 
-Explore and clarify gathered information.
+  - Explore and clarify gathered information.
 
-Discover hidden or unstated needs.
+  - Discover hidden or unstated needs.
 
-Use techniques like workshops, brainstorming, and observations.
+  - Use techniques like workshops, brainstorming, and observations.
 
-Requirement Documentation
+- Requirement Documentation
 
-Clearly write down all requirements.
+  - Clearly write down all requirements.
 
-Create documents like Software Requirement Specifications (SRS) or user stories.
+  - Create documents like Software Requirement Specifications (SRS) or user stories.
 
-Provide a reference for the entire development team.
+  - Provide a reference for the entire development team.
 
-Requirement Analysis and Modeling
+- Requirement Analysis and Modeling
 
-Analyze requirements for clarity, completeness, and feasibility.
+  - Analyze requirements for clarity, completeness, and feasibility.
 
-Organize and structure the information logically.
+  - Organize and structure the information logically.
 
-Use visual models (e.g., flowcharts, UML diagrams) to represent the system.
+  - Use visual models (e.g., flowcharts, UML diagrams) to represent the system.
 
-Requirement Validation
+- Requirement Validation
 
-Review requirements with stakeholders for approval.
+  - Review requirements with stakeholders for approval.
 
-Ensure all requirements are correct and agreed upon.
+  - Ensure all requirements are correct and agreed upon.
 
-Catch issues early before development begins.
+  - Catch issues early before development begins.
